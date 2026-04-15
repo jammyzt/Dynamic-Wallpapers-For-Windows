@@ -1,0 +1,99 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-1.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-1.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-2.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-2.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-2.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-3.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-3.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-3.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-4.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-4.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-4.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-5.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-5.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-5.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-6.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-6.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-6.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-7.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-7.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-7.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-8.jpg</to>
+  </transition>
+
+  <static>
+    <duration>7500.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-8.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>3300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-8.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/Fuji-timed/Fuji-1.jpg</to>
+  </transition>
+
+</background>

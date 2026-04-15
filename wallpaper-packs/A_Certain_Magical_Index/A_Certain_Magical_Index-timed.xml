@@ -1,0 +1,1067 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-1.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-1.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-2.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-2.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-2.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-3.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-3.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-3.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-4.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-4.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-4.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-5.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-5.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-5.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-6.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-6.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-6.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-7.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-7.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-7.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-8.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-8.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-8.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-9.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-9.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-9.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-10.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-10.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-10.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-11.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-11.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-11.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-12.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-12.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-12.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-13.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-13.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-13.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-14.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-14.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-14.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-15.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-15.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-15.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-16.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-16.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-16.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-17.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-17.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-17.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-18.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-18.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-18.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-19.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-19.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-19.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-20.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-20.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-20.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-21.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-21.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-21.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-22.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-22.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-22.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-23.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-23.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-23.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-24.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-24.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-24.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-25.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-25.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-25.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-26.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-26.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-26.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-27.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-27.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-27.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-28.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-28.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-28.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-29.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-29.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-29.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-30.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-30.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-30.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-31.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-31.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-31.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-32.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-32.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-32.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-33.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-33.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-33.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-34.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-34.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-34.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-35.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-35.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-35.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-36.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-36.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-36.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-37.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-37.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-37.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-38.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-38.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-38.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-39.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-39.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-39.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-40.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-40.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-40.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-41.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-41.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-41.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-42.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-42.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-42.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-43.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-43.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-43.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-44.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-44.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-44.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-45.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-45.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-45.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-46.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-46.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-46.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-47.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-47.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-47.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-48.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-48.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-48.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-49.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-49.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-49.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-50.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-50.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-50.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-51.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-51.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-51.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-52.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-52.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-52.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-53.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-53.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-53.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-54.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-54.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-54.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-55.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-55.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-55.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-56.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-56.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-56.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-57.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-57.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-57.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-58.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-58.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-58.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-59.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-59.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-59.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-60.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-60.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-60.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-61.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-61.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-61.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-62.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-62.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-62.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-63.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-63.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-63.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-64.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-64.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-64.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-65.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-65.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-65.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-66.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-66.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-66.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-67.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-67.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-67.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-68.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-68.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-68.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-69.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-69.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-69.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-70.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-70.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-70.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-71.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-71.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-71.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-72.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-72.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-72.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-73.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-73.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-73.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-74.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-74.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-74.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-75.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-75.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-75.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-76.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-76.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-76.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-77.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-77.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-77.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-78.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-78.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-78.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-79.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-79.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-79.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-80.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-80.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-80.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-81.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-81.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-81.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-82.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-82.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-82.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-83.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-83.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-83.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-84.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-84.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-84.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-85.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-85.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-85.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-86.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-86.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-86.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-87.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-87.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-87.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-88.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-88.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-88.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-89.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-89.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-89.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-90.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-90.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-90.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-91.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-91.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-91.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-92.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-92.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-92.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-93.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-93.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-93.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-94.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-94.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-94.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-95.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-95.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-95.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-96.jpg</to>
+  </transition>
+
+  <static>
+    <duration>600.0</duration>
+    <file>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-96.jpg</file>
+  </static>
+
+  <transition type="overlay">
+    <duration>300.0</duration>
+    <from>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-96.jpg</from>
+    <to>__LOCATION__/backgrounds/gnome/A_Certain_Magical_Index-timed/A_Certain_Magical_Index-1.jpg</to>
+  </transition>
+
+</background>

@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File ""C:\Users\jtaylor\source\repos\wallpapers\Set-TimedWallpaper.ps1"" -XmlPath ""C:\Users\jtaylor\source\repos\wallpapers\wallpaper-packs\Lakeside-2\Lakeside-2-timed.xml"" -WallpaperDir ""C:\Users\jtaylor\source\repos\wallpapers\wallpaper-packs\Lakeside-2""", 0, False
